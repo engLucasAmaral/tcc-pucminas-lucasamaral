@@ -1,4 +1,4 @@
-export const URL_BASE_AMBIENTE = 'http://tccpmbd.tech/pmbd/api/v1/pessoas'
+export const URL_BASE_AMBIENTE = 'http://tccpmbd.tech/pmbd/v1/pessoas'
 // export const URL_BASE_AMBIENTE = 'http://localhost:8080/pmbd/api/v1/pessoas'
 export const TOKEN_KEY = "TOKEN_PMBD";
 export const isAuthenticated = () => localStorage.getItem(TOKEN_KEY) !== null;
