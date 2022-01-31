@@ -15,10 +15,10 @@ Com apenas esses dois comandos, será gerado a versão da api-java, frontend, cr
 O Projeto java só é iniciado após o banco de dados estar pronto e conectável.
 
 # Para utilizar a aplicação web, basta acessar:
-  http://tccpmbd.tech/portal
+  https://tccpmbd.tech/portal
 
 # Para consultar o swagger da api:
-  http://tccpmbd.tech/pmbd/swagger
+  https://tccpmbd.tech/pmbd/swagger
 
 Caso queira trocar a URL, pode alterar no docker-compose.yml:
   traefik.frontend.rule=Host: URL_DOMINIO
