@@ -31,7 +31,7 @@ public class AplicationConfig extends Application {
             BeanConfig conf = new BeanConfig();
             conf.setTitle("API - PMBD (Prefeitura Municipal de Bom Destino)");
             conf.setDescription("TCC Arquitetura de sistemas distribuidos...");
-            conf.setBasePath("pmbd/api/v1"); 
+            conf.setBasePath("pmbd/v1"); 
             conf.setSchemes(new String[]{"http"});
             conf.setResourcePackage("br.com.api.tcc.pmbd.resources");
             conf.setScan(true);
