@@ -1,4 +1,4 @@
-# TCC PUC MINAS (Arquitetua de Sistemas Distribuidos)
+# TCC PUC MINAS (Arquitetura de Sistemas Distribuidos)
 Utlizado Java EE com servidor de aplicação Payara Micro e React para o frontend!
 
 Utlizado docker para criação do ambiente de forma completa.
